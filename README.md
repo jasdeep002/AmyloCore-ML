@@ -8,7 +8,7 @@ using ESM-2 and Ankh protein language models.
 
 ## Run AmyloCore-ML
 
-[Open in Google Colab]
+[Open AmyloCore-ML in Google Colab](https://colab.research.google.com/github/jasdeep002/AmyloCore-ML/blob/main/AmyloCoreML.ipynb)
 
 No local installation is required.
 
